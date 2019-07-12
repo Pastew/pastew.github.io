@@ -6,33 +6,29 @@ title: Home
 
 # Hi
 
-I'm a software engineer in Nokia. 
-I am currently looking for a new job that will allow me to develop my skills. 
-I am mainly interested in working in the gaming industry as a software engineer.
-
+I'm a software engineer in Nokia.
+I'm mainly interested in role of a software engineer in gaming industry.
 Most of my projects are game prototypes made in Unity and C#. Apart from that I have created one small Android app published on Google Play and took part in some other projects.
 
+<br/>
 ## Experience
-**Software Engineer - Nokia**, 2015 - present
+**Software Engineer - Nokia**, 08.2015 - 07.2019 (4 years)
 As my main task was to develop a mature product (suite for 3rd generation mobile network monitoring), I took the opportunity to gather experience in many fields.
 * Working with the legacy code, fixing bugs, applying security fixes, writing technical documentation.
-* Finding and fixing bugs, writing new code in Python, Bash, Perl, C++.
+* Writing new code in Python, Bash, Perl, some C++.
 * Leading SCM team and maintaining product delivery to the client.
-* Manual procedures automation using Python, Bash, Perl and Jenkins.
-* Developing automation frameworks in Perl and Python.
+* Automating manual procedures using Python, Bash, Perl and Jenkins.
 * Work with various operating systems: Windows 10, Solaris, Windows Server, CentOS.
-* Work with various software: 
-  * PyCharm, IntelliJ IDEA, VS Code, Visual Studio 2017, Notepad++, MobaXterm.
-  * GitLab, Jenkins, ClearCase.
-  * Jira, Kanboard, ClearQuest, MSTeams, Sharepoint.
+* Work with various software: PyCharm, Visual Studio 2017, GitLab, Jenkins, ClearCase, Jira, MobaXterm...
 * For half a year, part-time work as a Scrum Master.
 * Recruitment and mentoring of new employees.
-* Customer technical support, debugging problems in the field.
-* Currently, part-time work as Product Owner for a new product related with LTE.
+* For two years, part-time work as customer technical support, debugging problems in the field.
+* For half of a year, part-time work as Product Owner for a new product related with LTE.
 
-**Intern - VSoft**, July 2015
+**Intern - VSoft**, 07.2015 (1 month)
 Design and implementation of a system consisting of Web Service, web application client web administration application (ASP.NET, C#).
 
+<br/>
 ## Education
 **Jagiellonian University, 2016-2018**
 M.S. in Computer Science - Video Game Production
@@ -40,8 +36,9 @@ M.S. in Computer Science - Video Game Production
 **AGH University of Science and Technology, 2012-2016**
 B.S. in Applied Computer Science, Faculty of Metals Engineering and Industrial Computer Science
 
+<br/>
 ## Hobbies
-Game development, [guitar playing](http://www.smiertelnik.pl), computer games, 3D printing.
+Game development, [guitar playing](http://www.smiertelnik.pl), computer games, new technologies.
 
 
 <br/>
@@ -52,7 +49,7 @@ Game development, [guitar playing](http://www.smiertelnik.pl), computer games, 3
 I wanted to learn basics of 3D modeling in Blender, so I modeled my room.
 I also wanted to try creating a VR game, so I used my room model and prototyped an escape room game.
 
-My personal key goals:
+Key goals:
 * Prepare game with 10 minutes gameplay.
 * Create every asset by myself (to learn 3D modeling).
 * Game should be playable without any controller (only VR headset + smartphone).
