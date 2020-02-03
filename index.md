@@ -3,15 +3,23 @@ layout: page
 title: Home
 
 ---
+<sup style="float:right">Last update: Feb 2020</sup>
 
 # Hi
 
-I'm a software engineer in Nokia.
-I'm mainly interested in role of a software engineer in gaming industry.
-Most of my projects are game prototypes made in Unity and C#. Apart from that I have created one small Android app published on Google Play and took part in some other projects.
+I'm a game prototype developer in [Yggdrasil Gaming](https://www.yggdrasilgaming.com/).
 
-<br/>
+Most of the projects that I'm working on in my free time are game prototypes made in Unity and C#. Apart from that I have created one small Android app published on Google Play and took part in some other projects.
+
 ## Experience
+**Game Prototype Developer - Yggdrasil Gaming**, 08.2019 - now
+My main task is to create high-fidelity prototypes of new casino games to depict how new game idea works in real life.
+* Unity, C#, JetBrains Rider
+* DOTween, Zenject
+* GIT
+* MacOS
+
+
 **Software Engineer - Nokia**, 08.2015 - 07.2019 (4 years)
 As my main task was to develop a mature product (suite for 3rd generation mobile network monitoring), I took the opportunity to gather experience in many fields.
 * Working with the legacy code, fixing bugs, applying security fixes, writing technical documentation.
