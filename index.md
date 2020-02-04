@@ -13,7 +13,6 @@ Most of the projects that I'm working on in my free time are game prototypes mad
 
 
 <br/>
-<hr>
 ## Experience
 **Game Prototype Developer - Yggdrasil Gaming**, 08.2019 - now
 My main task is to create high-fidelity prototypes of new casino games to depict how new game idea works in real life.
@@ -39,7 +38,6 @@ As my main task was to develop a mature product (suite for 3rd generation mobile
 Design and implementation of a system consisting of Web Service, web application client web administration application (ASP.NET, C#).
 
 <br/>
-<hr>
 ## Education
 **Jagiellonian University, 2016-2018**
 M.S. in Computer Science - Video Game Production
@@ -48,16 +46,14 @@ M.S. in Computer Science - Video Game Production
 B.S. in Applied Computer Science, Faculty of Metals Engineering and Industrial Computer Science
 
 <br/>
-<hr>
 ## Hobbies
 Game development, [guitar playing](http://www.smiertelnik.pl), computer games, new technologies.
 
 
 <br/>
-<hr>
 # My projects
 
-## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/krakjam2020) Work at Januszex, Global Game Jam 2020 (KrakJam) - **1st place!**
+## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/krakjam2020) Work at Januszex, Global Game Jam 2020 (KrakJam) - <span style="color:#FFD700">**1st place!**</span>
 Game Jam subject: Repair  
 
 #### Story
@@ -79,10 +75,11 @@ The game uses 2 custom controllers
 * Ender-3 used for 3D printing.
 
 
-This project was done by two people in 48 hours. We got a **first place prize** for this game and we are super happy about it, especially there was about 150 other people, (~40 teams) there.
+This project was done by two people in 48 hours. We got a <span style="color:#FFD700">**first place prize**</span> for this game and we are super happy about it, especially there was about 150 other people, (~40 teams) there.
 I was responsible for designing, 3D printing, coding custom controller, coding gameplay (Unity, C#, Arduino) while my friend was implementing microphone usage and doing the design, visual and audio assets.
 
-More information: [https://github.com/Pastew/krakjam2020](https://github.com/Pastew/krakjam2020)
+* More information and source code:  [https://github.com/Pastew/krakjam2020](https://github.com/Pastew/krakjam2020)
+* GGJ page: [https://globalgamejam.org/2020/games/work-januszex-2](https://globalgamejam.org/2020/games/work-januszex-2])
 
 
 ### Video
@@ -96,8 +93,6 @@ More information: [https://github.com/Pastew/krakjam2020](https://github.com/Pas
 
 <br/>
 <br/>
-<hr>
-
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/room) Room - VR game
 I wanted to learn basics of 3D modeling in Blender, so I modeled my room.
 I also wanted to try creating a VR game, so I used my room model and prototyped an escape room game.
@@ -128,7 +123,6 @@ Work in progress: ~20%. I plan to finish this game in the future.
 
 <br/>
 <br/>
-<hr>
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/form) Form - 2D platformer logic game with soft body physics.
 I was interested in soft body physics during my university studies, so I wanted to create a game using it. I found [great repo](https://github.com/kwanchangnim/Jello-Physics) I utilized in my game prototype.
 **Form** is a mobile oriented game where player controls jelly-like hero who can change his form - a soft ball, a flying baloon or a sticky ball. The goal is to reach the end of the level by solving logical puzzles and arcade challenges.
@@ -150,7 +144,6 @@ More information: [https://github.com/Pastew/form](https://github.com/Pastew/for
 
 <br/>
 <br/>
-<hr>
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/krakjam2017) Red Wave, Global Game Jam 2017 (KrakJam)
 Game Jam subject: Waves.
 Story:
@@ -170,7 +163,6 @@ More information: [https://github.com/Pastew/krakjam2017](https://github.com/Pas
 
 <br/>
 <br/>
-<hr>
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/krakjam2018) AdBlock Simulator, Global Game Jam 2018 (KrakJam)
 Game Jam subject: Transmission.
 Story:
@@ -195,7 +187,6 @@ More information: [https://github.com/Pastew/krakjam2018](https://github.com/Pas
 
 <br/>
 <br/>
-<hr>
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/rpi_car) Raspberry Pi, WiFi controlled car with 180* video streaming
 I created this car during my engineering studies when I attended additional classes at the SKIP scientific club. This was my first contact with:
 * electronics
@@ -218,7 +209,6 @@ More information: [https://github.com/Pastew/rpi_car](https://github.com/Pastew/
 
 <br/>
 <br/>
-<hr>
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/ISEngineerExam) Android app for learning for an engineering exam
 This is my first released product that was useful for others. It helped me and my collegues from university with learning to engineering exam in 2015. All of us passed.
 I also implemented Google Analytics to learn how to use it and it turns out the app is still used by students in 2019.
@@ -236,7 +226,6 @@ More information: [https://github.com/Pastew/ISEngineerExam](https://github.com/
 
 <br/>
 <br/>
-<hr>
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/ingameads-server) Microservices based web service for renting advert space inside game world.
 This application is the subject of my master's thesis.
 It is an intermediary between video game owners and advertisers that are willing to pay for placing their advertisements inside the game world. The project consists of:
@@ -261,7 +250,6 @@ More information: [https://github.com/Pastew/ingameads-server](https://github.co
 
 <br/>
 <br/>
-<hr>
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/browsergotchi) Browsergotchi - anti-procrastination web browser addon
 Browsergotchi is a hackathon project, bringing to your browser funny froggy widget you probably need to take care of. Browsergotchi lives inside your Chrome. It becomes happy when you're visiting proper websites, and unhappy when you're procrastinating on some 9gagy stuff. It can also recognize if YouTube video you're watching comes from some silly category! You better look after it.
 
