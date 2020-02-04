@@ -75,7 +75,7 @@ The game uses 2 custom controllers
 * Ender-3 used for 3D printing.
 
 
-This project was done by two people in 48 hours. We got a <span style="color:#FFD700">**first place prize**</span> for this game and we are super happy about it, especially there was about 150 other people, (~40 teams) there.
+This project was done by two people in 48 hours. We got a <span style="color:#FFD700">**first place prize**</span> for this game and we are super happy about it, especially there were about 150 other people, (~40 teams) there.
 I was responsible for designing, 3D printing, coding custom controller, coding gameplay (Unity, C#, Arduino) while my friend was implementing microphone usage and doing the design, visual and audio assets.
 
 * More information and source code:  [https://github.com/Pastew/krakjam2020](https://github.com/Pastew/krakjam2020)
