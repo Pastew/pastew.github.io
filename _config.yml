@@ -27,10 +27,10 @@ social:
   linkedin: kamil-pastwa-0061a9b1
   instagram:
   lastfm: Pastew
-  rss: feed.xml
+  rss:
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key:
+google_analytics_key: UA-71779182-4
 # Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
 yandex_metrica:
 
