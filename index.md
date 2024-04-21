@@ -53,7 +53,66 @@ Game development, [guitar playing](http://www.smiertelnik.pl), computer games, n
 
 <br/> <!-- #################################################### -->
 
-# My projects
+# Personal projects
+
+<br/><br/> <!-- #################### project separator ################################ -->
+
+## [<i class="fab fa-github fa-2x"></i>](https://github.com/placuszki-dev/krakjam2024) Choose your cheese, please!, Global Game Jam 2024 (KrakJam)
+Game Jam subject: Make me laugh
+
+#### Story
+In our game, two teams of cheese throwers (and possibly lovers) are trying to cover the most cat heads with their cheese type of choice.
+
+#### Gameplay
+Anyone can join using only a smartphone with web browser. Smartphones are used as controllers, and game screen is displayed on bigger display. Smartphone is used as a controller for the game. Up to 12 players at a time.
+
+#### Tech info
+* Game server made with ASP.NET Core. Communication made with SignalR. We host it on some cheap VPS.
+* Game controller running on player's smartphone made with with vanilla HTML + CSS + JavaScript.
+* Game client made with Unity.
+
+#### Credits
+This project was done by three people in 48 hours.
+@ympek - smartphone app
+@twinkeywinkey - game client made with Unity, game assets, look and feel, polish gameplay
+@pastew - make both apps talk to each other
+
+#### Links
+* Source code:  [https://github.com/placuszki-dev/krakjam2024](https://github.com/placuszki-dev/krakjam2024)
+* Build: [download link](https://github.com/placuszki-dev/krakjam2024/releases/)
+* GGJ page: [GGJ - Choose Your Cheese, Please!](https://globalgamejam.org/games/2024/czerwone-maki-pr-7)
+
+### Video
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/rKhZyXvgZrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/> <!-- #################### project separator ################################ -->
+
+## [<i class="fab fa-github fa-2x"></i>](https://github.com/placuszki-dev/krakjam2023) Boss Level, Global Game Jam 2023 (KrakJam) - <span style="color:#FFD700">**Audience award!**</span>
+Game Jam subject: Roots  
+
+#### Story
+Let's get back to the roots. Remember playing Pegasus/SNES in front of your TV? Remember that one tough boss level, even your older brother couldn't beat? Well, in our game you can BE the boss, and finally take revenge. 
+
+"Boss Level" is a game for two to five players, where up to four players play a platformer in 2D and additional one is playing the "boss" on a VR headset - seeing the players below and trying to kill them by throwing hammers at them. Players, on the other hand, have to collect bananas to defeat the boss. 
+
+Why this project? What's the idea? Every single one of us started their video game journey as a kid from sitting in front of (now ancient) CRT TV and playing classics, like Super Mario or Tetris. While brainstorming on this year’s subject we concluded that for us, the “roots” are exactly this – simple game, small screen, and us trying to beat another boss level. Then we began experimenting on the subject - what if we take our "roots", this simple idea of trying to beat a boss - and fast forward 20-30 years to modern technology, like Oculus VR. And try to... fit both of this approaches in one game. To show where we were, and where we are now. That's why we later decided to pick up some old TV and use it in this project as well, trying to make oldschool part of the game look as good as possible on CRT display, to hit all of us with a healthy dose of nostalgia.
+
+#### Tech info
+Game connects two gameplays:
+* One player plays on any SteamVR supporting VR headset - he is a cloud that throws hammers on monkeys.
+* Up to 4 players play with any standard game controller, like Xbox gamepad. They are monkeys in 2D world trying to avoid hammers and try to gather enough bananas to win.
+* Unity used for game.
+
+This project was done by four people in 48 hours. We got a <span style="color:#FFD700">**audience award**</span> for this game. I was working mostly on VR part of this game.
+
+* More information and source code:  [https://github.com/placuszki-dev/krakjam2023](https://github.com/placuszki-dev/krakjam2023)
+* Build: [download link](https://github.com/Pastew/krakjam2023/releases/download/v1.01/BossLevel-KrakJam2023.zip)
+* GGJ page: [https://v3.globalgamejam.org/2023/games/boss-level-6](https://v3.globalgamejam.org/2023/games/boss-level-6)
+
+### Video
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/aacJmZuBWAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/> <!-- #################### project separator ################################ -->
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/krakjam2020) Work at Januszex, Global Game Jam 2020 (KrakJam) - <span style="color:#FFD700">**1st place!**</span>
 Game Jam subject: Repair  
@@ -80,7 +139,8 @@ This project was done by two people in 48 hours. We got a <span style="color:#FF
 I was responsible for designing, 3D printing, coding custom controller, coding gameplay (Unity, C#, Arduino) while my friend was implementing microphone usage and doing the design, visual and audio assets.
 
 * More information and source code:  [https://github.com/Pastew/krakjam2020](https://github.com/Pastew/krakjam2020)
-* GGJ page: [https://globalgamejam.org/2020/games/work-januszex-2](https://globalgamejam.org/2020/games/work-januszex-2])
+* Build: [download link](https://github.com/placuszki-dev/krakjam2020/releases/tag/2)
+* GGJ page: [https://globalgamejam.org/2020/games/work-januszex-2](https://globalgamejam.org/2020/games/work-januszex-2)
 
 ### Video
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/CuvS7_y8ex4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
