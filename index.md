@@ -3,39 +3,72 @@ layout: page
 title: Home
 
 ---
-<sup style="float:right">Last update: Feb 2020</sup>
+<sup style="float:right">Last update: 04.2024</sup>
 
 # Hi
 
-I'm a game prototype developer in [Yggdrasil Gaming](https://www.yggdrasilgaming.com/).
+I'm a software engineer with experience dating back to 2015. I place a high value on stepping out of my comfort zone to learn new technologies. Currently, my primary focus is on developing VR training games and other applications using Unity.
 
-Most of the projects that I'm working on in my free time are game prototypes made in Unity and C#. Apart from that I have created one small Android app published on Google Play and took part in some other projects.
+Most of the projects I work on in my free time are game prototypes created in Unity and C#, either independently or with my friends at game jams and hackathons. Additionally, I've participated in several other projects.
+
+# Keywords
+**Primary:** Unity, C# (5 years)
+**Secondary:** GIT, DOTween, Zenject, Blender, Java, Blazor, SignalR, scripting
+languages, Docker, UNIX systems, Jira, GitHub
+**Other:** profiling and optimizing Unity apps, project management, UX design
 
 <br/> <!-- #################################################### -->
 
 ## Experience
-**Game Prototype Developer - Yggdrasil Gaming**, 08.2019 - now
-My main task is to create high-fidelity prototypes of new casino games to depict how new game idea works in real life.
-* Unity, C#, JetBrains Rider
-* DOTween, Zenject
-* GIT
-* MacOS
+**Sim Factor — Software Engineer** (C#, Unity, VR), 10.2021 - Present
+* Developed VR training games for standalone VR headsets, from game mechanics design to server-side communication.
+  * Vectron machine room - VR frontend for a full-cabin simulator
+  * CityJet - VR frontend for a full-cabin simulator
+  * High voltage pole grounding - standalone VR training game
+  * Intercity elevator - standalone VR training game
+* Designed a reusable VR framework for future projects
+  * Set of common reusable VR objects and mechanics
+  * Multiplayer support to synchronize states between many players, utilizing a central server created with Blazor and SignalR
+  * Framework was adopted successfully by other developers
+* Optimizing VR projects
+  * Identifying and resolving performance bottlenecks
+  * Collaborated closely with 3D artists to deliver optimized assets
+  * Utilized game-dev tricks to enhance performance and visual realism
+* Worked in a small (2) and bigger (7) team.
+  * For VR applications I was fully responsible for the entire project, working with one or more 3D artists
+  * Contributed to other projects by completing specific tasks, such as creating a frontend for a warehouse simulator within a larger solution.
+* Planned, estimated costs and managed projects
+  * Created estimates for future projects
+  * Planned tasks for upcoming sprints
+  * Participated in client meetings
+* Ability to remain calm under pressure
+  * Demonstrated ability to stay steady during challenging client interactions, earning management recognition
 
-**Software Engineer - Nokia**, 08.2015 - 07.2019 (4 years)
-As my main task was to develop a mature product (suite for 3rd generation mobile network monitoring), I took the opportunity to gather experience in many fields.
-* Working with the legacy code, fixing bugs, applying security fixes, writing technical documentation.
-* Writing new code in Python, Bash, Perl, some C++.
-* Leading SCM team and maintaining product delivery to the client.
-* Automating manual procedures using Python, Bash, Perl and Jenkins.
-* Work with various operating systems: Windows 10, Solaris, Windows Server, CentOS.
-* Work with various software: PyCharm, Visual Studio 2017, GitLab, Jenkins, ClearCase, Jira, MobaXterm...
-* For half a year, part-time work as a Scrum Master.
-* Recruitment and mentoring of new employees.
-* For two years, part-time work as customer technical support, debugging problems in the field.
-* For half of a year, part-time work as Product Owner for a new product related with LTE.
+**Yggdrasil Gaming — Prototype Developer (C#, Unity, WebGL)**, 08.2019 - 09.2021 (2 years)
+* Produced high quality prototypes of new casino games
+* My goal was to show how a new game idea works in real life before it gets
+to the production team
+* Worked mostly with Unity UI and DOTween
+
+**Giganci Programowania - Programming Teacher for children and youth**, 09.2019 - 01.2020 (5 months)
+* Taught basics of programming and computer security to students aged 9-15
+
+**Nokia — Intern -> Software Engineer**, 08.2015 - 07.2019 (4 years)
+As my main task was to develop and maintain a mature product (suite for 3rd generation mobile network monitoring), I took the opportunity to gather experience in many fields. Although I didn't become a pro at any of them, I'm grateful for the experience I gained. Looking back, I realize it was a valuable starting point for my career as a software engineer. Some of the things I did:
+* Working with the legacy code, fixing bugs, applying security fixes, writing technical documentation
+* Writing new code in Python, Bash, Perl, some C++
+* Leading SCM team and maintaining product delivery to the client
+* Automating manual procedures using Python, Bash, Perl and Jenkins
+* Work with various operating systems: Windows 10, Solaris, Windows Server, CentOS
+* Work with various software: PyCharm, Visual Studio 2017, GitLab, Jenkins, ClearCase, Jira,...
+* For half a year, part-time work as a Scrum Master
+* Recruitment and mentoring of new employees
+* For two years, part-time work as customer technical support, debugging problems in the field
+* For half of a year, part-time work as Product Owner for a new LTE product
 
 **Intern - VSoft**, 07.2015 (1 month)
-Design and implementation of a system consisting of Web Service, web application client web administration application (ASP.NET, C#).
+Design and implementation of a system consisting of Web Service, web application client web administration application (ASP.NET, C#). I was mostly responsible for implementing SOAP client.
+
 
 <br/> <!-- #################################################### -->
 
