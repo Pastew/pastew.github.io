@@ -5,7 +5,7 @@ title: Home
 ---
 <sup style="float:right">Last update: 04.2024</sup>
 
-<h1  style="text-align: center;">Hi!</h1>
+<h1>--- Hi! ---</h1>
 
 I'm a software engineer with experience dating back to 2015. I place a high value on stepping out of my comfort zone to learn new technologies. Currently, my primary focus is on developing VR training games and other applications using Unity.
 
@@ -13,7 +13,7 @@ Most of the projects I work on in my free time are game prototypes created in Un
 
 ---
 
-<h1  style="text-align: center;">Keywords</h1>
+<h1>--- Keywords ---</h1>
 * **Primary:** Unity, C# (5 years)
 * **Secondary:** GIT, DOTween, Zenject, Blender, Java, Blazor, SignalR, scripting
 languages, Docker, UNIX systems, Jira, GitHub
@@ -21,7 +21,7 @@ languages, Docker, UNIX systems, Jira, GitHub
 
 ---
 
-<h1  style="text-align: center;">Experience</h1>
+<h1>--- Experience ---</h1>
 
 ### **Sim Factor — Software Engineer** (C#, Unity, VR), 10.2021 - Present
 * Developed VR training games for standalone VR headsets, from game mechanics design to server-side communication.
@@ -76,7 +76,7 @@ to the production team
 
 ---
 
-<h1  style="text-align: center;">Education</h1>
+<h1>--- Education ---</h1>
 
 ### **Jagiellonian University**, 2016-2018
   * M.S. in Computer Science - Video Game Production
@@ -87,12 +87,12 @@ to the production team
 
 ---
 
-<h1  style="text-align: center;">Hobbies</h1>
+<h1>--- Hobby ---</h1>
 Game development, [guitar playing](http://www.smiertelnik.pl), computer games, new technologies.
 
 ---
 
-<h1  style="text-align: center;">Personal projects</h1>
+<h1>--- Personal projects ---</h1>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/placuszki-dev/krakjam2024) Choose your cheese, please!, Global Game Jam 2024 (KrakJam)
 Game Jam subject: Make me laugh
