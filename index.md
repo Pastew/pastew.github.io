@@ -5,22 +5,25 @@ title: Home
 ---
 <sup style="float:right">Last update: 04.2024</sup>
 
-# Hi
+<h1>--- Hi! ---</h1>
 
 I'm a software engineer with experience dating back to 2015. I place a high value on stepping out of my comfort zone to learn new technologies. Currently, my primary focus is on developing VR training games and other applications using Unity.
 
 Most of the projects I work on in my free time are game prototypes created in Unity and C#, either independently or with my friends at game jams and hackathons. Additionally, I've participated in several other projects.
 
-# Keywords
-**Primary:** Unity, C# (5 years)
-**Secondary:** GIT, DOTween, Zenject, Blender, Java, Blazor, SignalR, scripting
+<hr/><br/>
+
+<h1>--- Keywords ---</h1>
+* **Primary:** Unity, C# (5 years)
+* **Secondary:** GIT, DOTween, Zenject, Blender, Java, Blazor, SignalR, scripting
 languages, Docker, UNIX systems, Jira, GitHub
-**Other:** profiling and optimizing Unity apps, project management, UX design
+* **Other:** profiling and optimizing Unity apps, project management, UX design
 
-<br/> <!-- #################################################### -->
+<hr/><br/>
 
-## Experience
-**Sim Factor — Software Engineer** (C#, Unity, VR), 10.2021 - Present
+<h1>--- Experience ---</h1>
+
+### **Sim Factor — Software Engineer** (C#, Unity, VR), 10.2021 - Present
 * Developed VR training games for standalone VR headsets, from game mechanics design to server-side communication.
   * Vectron machine room - VR frontend for a full-cabin simulator
   * CityJet - VR frontend for a full-cabin simulator
@@ -44,17 +47,23 @@ languages, Docker, UNIX systems, Jira, GitHub
 * Ability to remain calm under pressure
   * Demonstrated ability to stay steady during challenging client interactions, earning management recognition
 
-**Yggdrasil Gaming — Prototype Developer (C#, Unity, WebGL)**, 08.2019 - 09.2021 (2 years)
+<br/>
+
+### **Yggdrasil Gaming — Prototype Developer (C#, Unity, WebGL)**, 08.2019 - 09.2021 (2 years)
 * Produced high quality prototypes of new casino games
 * My goal was to show how a new game idea works in real life before it gets
 to the production team
 * Worked mostly with Unity UI and DOTween
 
-**Giganci Programowania - Programming Teacher for children and youth**, 09.2019 - 01.2020 (5 months)
+<br/>
+
+### **Giganci Programowania - Programming Teacher for children and youth**, 09.2019 - 01.2020 (5 months)
 * Taught basics of programming and computer security to students aged 9-15
 
-**Nokia — Intern -> Software Engineer**, 08.2015 - 07.2019 (4 years)
-As my main task was to develop and maintain a mature product (suite for 3rd generation mobile network monitoring), I took the opportunity to gather experience in many fields. Although I didn't become a pro at any of them, I'm grateful for the experience I gained. Looking back, I realize it was a valuable starting point for my career as a software engineer. Some of the things I did:
+<br/>
+
+### **Nokia — Intern -> Software Engineer**, 08.2015 - 07.2019 (4 years)  
+* As my main task was to develop and maintain a mature product (suite for 3rd generation mobile network monitoring), I took the opportunity to gather experience in many fields. Although I didn't become a pro at any of them, I'm grateful for the experience I gained. Looking back, I realize it was a valuable starting point for my career as a software engineer. Some of the things I did:
 * Working with the legacy code, fixing bugs, applying security fixes, writing technical documentation
 * Writing new code in Python, Bash, Perl, some C++
 * Leading SCM team and maintaining product delivery to the client
@@ -66,29 +75,35 @@ As my main task was to develop and maintain a mature product (suite for 3rd gene
 * For two years, part-time work as customer technical support, debugging problems in the field
 * For half of a year, part-time work as Product Owner for a new LTE product
 
-**Intern - VSoft**, 07.2015 (1 month)
-Design and implementation of a system consisting of Web Service, web application client web administration application (ASP.NET, C#). I was mostly responsible for implementing SOAP client.
+<br/>
+
+### **Intern - VSoft**, 07.2015 (1 month)
+* Design and implementation of a system consisting of Web Service, web application client web administration application (ASP.NET, C#). 
+* I was mostly responsible for implementing SOAP client.
 
 
-<br/> <!-- #################################################### -->
+<hr/><br/>
 
-## Education
-**Jagiellonian University, 2016-2018**
-M.S. in Computer Science - Video Game Production
+<h1>--- Education ---</h1>
 
-**AGH University of Science and Technology, 2012-2016**
-B.S. in Applied Computer Science, Faculty of Metals Engineering and Industrial Computer Science
+### **Jagiellonian University**, 2016-2018
+  * M.S. in Computer Science - Video Game Production
 
-<br/> <!-- #################################################### -->
 
-## Hobbies
-Game development, [guitar playing](http://www.smiertelnik.pl), computer games, new technologies.
+### **AGH University of Science and Technology**, 2012-2016
+  * B.S. in Applied Computer Science, Faculty of Metals Engineering and Industrial Computer Science
 
-<br/> <!-- #################################################### -->
+<hr/><br/>
 
-# Personal projects
+<h1>--- Hobbies ---</h1>
+* [Playing guitar](http://www.smiertelnik.pl)
+* creating music
+* game development
+* 3D printing
 
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
+
+<h1>--- Personal projects ---</h1>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/placuszki-dev/krakjam2024) Choose your cheese, please!, Global Game Jam 2024 (KrakJam)
 Game Jam subject: Make me laugh
@@ -118,7 +133,7 @@ This project was done by three people in 48 hours.
 ### Video
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/rKhZyXvgZrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/placuszki-dev/krakjam2023) Boss Level, Global Game Jam 2023 (KrakJam) - <span style="color:#FFD700">**Audience award!**</span>
 Game Jam subject: Roots  
@@ -145,7 +160,7 @@ This project was done by four people in 48 hours. We got a <span style="color:#F
 ### Video
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aacJmZuBWAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/krakjam2020) Work at Januszex, Global Game Jam 2020 (KrakJam) - <span style="color:#FFD700">**1st place!**</span>
 Game Jam subject: Repair  
@@ -178,46 +193,7 @@ I was responsible for designing, 3D printing, coding custom controller, coding g
 ### Video
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/CuvS7_y8ex4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/><br/> <!-- #################### project separator ################################ -->
-
-## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/room) Room - VR game
-I wanted to learn basics of 3D modeling in Blender, so I modeled my room.
-I also wanted to try creating a VR game, so I used my room model and prototyped an escape room game.
-
-Key goals:
-* Prepare game with 10 minutes gameplay.
-* Create every asset by myself (to learn 3D modeling).
-* Game should be playable without any controller (only VR headset + smartphone).
-* Deploy to Google Play only.
-* No annoying ads.
-
-What I did so far:
-* I used [Google VR SDK](https://developers.google.com/vr/develop/unity/get-started-android) for handling VR.
-* I modified original VR selector to circle-based (see YT video).
-* I optimized models to get smooth gameplay on mid-range Android smartphone (tested on Nokia 6.1).
-* I prototyped two walking modes: marks on floor and looking down to move forward.
-* I used lightmapping to get the shadows (for better performance no real time lights are used in game).
-
-Work in progress: ~20%. I plan to finish this game in the future.
-
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/j-zB5VxvMKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/><br/> <!-- #################### project separator ################################ -->
-
-## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/form) Form - 2D platformer logic game with soft body physics.
-I was interested in soft body physics during my university studies, so I wanted to create a game using it. I found [great repo](https://github.com/kwanchangnim/Jello-Physics) I utilized in my game prototype.
-**Form** is a mobile oriented game where player controls jelly-like hero who can change his form - a soft ball, a flying baloon or a sticky ball. The goal is to reach the end of the level by solving logical puzzles and arcade challenges.
-
-* [Ferr2D Terrain Tool](https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653) used for creating the terrain.
-* [Jello-Physics](https://github.com/kwanchangnim/Jello-Physics) used for soft body physics
-* Side goal of this project was to learn the Inkscape for creating 2D assets, so objects in game are created by me.
-* I also wanted to learn [Unity Post Processing Stack](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912), it is used in the game for death effect. It contains multiply effects mixed up.
-* I created only two levels. I don't plan to finish this game, because it would consume too much time to prepare all assets and levels by myself.
-
-More information: [https://github.com/Pastew/form](https://github.com/Pastew/form)
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/JK-xgJiYcnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/krakjam2017) Red Wave, Global Game Jam 2017 (KrakJam)
 Game Jam subject: Waves.
@@ -230,7 +206,7 @@ More information: [https://github.com/Pastew/krakjam2017](https://github.com/Pas
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/OKJAgOTh-co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/krakjam2018) AdBlock Simulator, Global Game Jam 2018 (KrakJam)
 Game Jam subject: Transmission.
@@ -247,7 +223,7 @@ More information: [https://github.com/Pastew/krakjam2018](https://github.com/Pas
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/AuSQ8tW7N4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/rpi_car) Raspberry Pi, WiFi controlled car with 180* video streaming
 I created this car during my engineering studies when I attended additional classes at the SKIP scientific club. This was my first contact with:
@@ -262,7 +238,7 @@ More information: [https://github.com/Pastew/rpi_car](https://github.com/Pastew/
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/vOVKgLQbhpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/ISEngineerExam) Android app for learning for an engineering exam
 This is my first released product that was useful for others. It helped me and my collegues from university with learning to engineering exam in 2015. All of us passed.
@@ -273,7 +249,7 @@ More information: [https://github.com/Pastew/ISEngineerExam](https://github.com/
 
 ![img]({{ '/assets/images/isexam.png' | relative_url}} ){: .center-image }
 
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/ingameads-server) Microservices based web service for renting advert space inside game world.
 This application is the subject of my master's thesis.
@@ -291,7 +267,7 @@ More information: [https://github.com/Pastew/ingameads-server](https://github.co
 
 ![img]({{ 'https://github.com/Pastew/ingameads-server/raw/master/architecture.PNG?raw=true'  }}){: .center-image }
 
-<br/><br/> <!-- #################### project separator ################################ -->
+<hr/><br/>
 
 ## [<i class="fab fa-github fa-2x"></i>](https://github.com/Pastew/browsergotchi) Browsergotchi - anti-procrastination web browser addon
 Browsergotchi is a hackathon project, bringing to your browser funny froggy widget you probably need to take care of. Browsergotchi lives inside your Chrome. It becomes happy when you're visiting proper websites, and unhappy when you're procrastinating on some 9gagy stuff. It can also recognize if YouTube video you're watching comes from some silly category! You better look after it.

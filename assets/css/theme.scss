@@ -25,22 +25,19 @@
 //$accent-color: #52B54B;  // green
 $accent-color: #ffffff;
 
-$font-color: #f3f3f3;
+$font-color: #e7e7e7;
 $background-color: #2a2a2a;
 $post-panel-color: #39393a;
 $footer-background-color: #292c2f;
 $note-color: #87CEFA;
 $warning-color: #ffff00;
-// use this or pick any from /css/pics/background folder or from transparenttextures.com
-$background-pattern: 'cartographer.png';
-$background-pattern: 'cubes.png';
 
 //********************************************************
 //                  Common styles
 //********************************************************
 body {
   color: $font-color;
-  background: $background-color url(pics/background/#{$background-pattern});
+  background: $background-color;
 }
 .card {
   background-color: #5f5f5f;
@@ -60,6 +57,11 @@ h3 { font-size: 1.17em; }
 h4 { font-size: 1.12em; }
 h5 { font-size: .83em; }
 h6 { font-size: .75em; }
+
+h1 { 
+  text-align: center;
+  color: #ffffff;
+}
 
 img {
   display: inline-block;
