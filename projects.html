@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - pastew.com</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Source+Code+Pro:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="site-title">pastew.com</h1>
+            <nav>
+                <a href="index.html" class="nav-link">Home</a>
+                <a href="projects.html" class="nav-link active">Projects</a>
+                <a href="https://github.com/Pastew" target="_blank" class="nav-link external">GitHub</a>
+                <a href="https://linkedin.com/in/pastew" target="_blank" class="nav-link external">LinkedIn</a>
+            </nav>
+        </header>
+
+        <main>
+            <section class="toc-section">
+                <p class="page-description">This is some of my favourite projects</p>
+                <div class="toc-links">
+                    <a href="#pocket-rc-cars" class="toc-link">Pocket RC Cars (2025)</a>
+                    <a href="#choose-cheese" class="toc-link">Choose your cheese, please! (2024)</a>
+                    <a href="#boss-level" class="toc-link">Boss Level (2023)</a>
+                    <a href="#work-januszex" class="toc-link">Work at Januszex (2020)</a>
+                    <a href="#microservices" class="toc-link">Microservices web service (2018)</a>
+                    <a href="#adblock-simulator" class="toc-link">AdBlock Simulator (2018)</a>
+                    <a href="#red-wave" class="toc-link">Red Wave (2017)</a>
+                    <a href="#raspberry-pi-car" class="toc-link">Raspberry Pi Car (2015)</a>
+                    <a href="#android-app" class="toc-link">Android App (2015)</a>
+                </div>
+            </section>
+            
+            <div class="project-timeline">
+                <article id="pocket-rc-cars" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">Pocket RC Cars</h2>
+                        <span class="project-badge">2025</span>
+                        <span class="project-badge">$15k prize!</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Meta Horizon Mobile Genre Competition - Winner in category "Best use of Camera API". It was a global event with over 1,500 participants and 281 submitted projects. My project was selected as one of the 30 winning projects, receiving a $15,000 award in one of the special categories.</p>
+                        
+                        </br>
+                        <p>Pocket RC Cars is a small RC-style racing game made for Horizon Worlds, playable in VR, on mobile, and in a browser. Arcade-style RC racing focused on pure speed and perfect lines. Master each track, beat your best time, and climb the leaderboard!</p>
+                        
+                        <h3>Gameplay</h3>
+                        <p>Players control tiny remote cars using interactive controllers. You unlock tracks by earning medals, progress through increasingly faster vehicles, and compete on local and global leaderboards. The focus is on mastering each track and shaving off every possible second.</p>
+                        
+                        <h3>Tech info</h3>
+                        <ul>
+                            <li>Built in Meta Horizon Worlds using Typescript and the Meta Desktop Editor</li>
+                            <li>Tracks were modeled in Blender</li>
+                            <li>Cars and props come from Kenney.nl, with additional assets from the Editor Asset Library</li>
+                            <li>Multiplatform: VR, mobile, and web</li>
+                        </ul>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://devpost.com/software/pocket-racers" target="_blank" class="project-link">Devpost</a>
+                            <a href="https://horizon.meta.com/world/2944898099002743" target="_blank" class="project-link">Play Game</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+<iframe width="100%" height="315" data-src="https://www.youtube.com/embed/ySBYM9LZvGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </article>
+
+                <article id="choose-cheese" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">Choose your cheese, please!</h2>
+                        <span class="project-badge">2024</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Global Game Jam (KrakJam) • Game Jam subject: Make me laugh</p>
+                        <h3>Story</h3>
+                        <p>In our game, two teams of cheese throwers (and possibly lovers) are trying to cover the most cat heads with their cheese type of choice.</p>
+                        
+                        <h3>Gameplay</h3>
+                        <p>Anyone can join using only a smartphone with web browser. Smartphones are used as controllers, and game screen is displayed on bigger display. Up to 12 players at a time.</p>
+                        
+                        <h3>Tech info</h3>
+                        <ul>
+                            <li>Game server made with ASP.NET Core. Communication made with SignalR. We host it on some cheap VPS.</li>
+                            <li>Game controller running on player's smartphone made with vanilla HTML + CSS + JavaScript.</li>
+                            <li>Game client made with Unity.</li>
+                        </ul>
+                        
+                        <h3>Credits</h3>
+                        <p>This project was done by three people in 48 hours.</p>
+                        <ul>
+                            <li>@ympek - smartphone app</li>
+                            <li>@twinkeywinkey - game client made with Unity, game assets, look and feel, polish gameplay</li>
+                            <li>@pastew - make both apps talk to each other</li>
+                        </ul>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://github.com/placuszki-dev/krakjam2024" target="_blank" class="project-link">Source code</a>
+                            <a href="https://github.com/placuszki-dev/krakjam2024/releases/" target="_blank" class="project-link">Build</a>
+                            <a href="https://globalgamejam.org/games/2024/czerwone-maki-pr-7" target="_blank" class="project-link">GGJ page</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+<iframe width="100%" height="315" data-src="https://www.youtube.com/embed/rKhZyXvgZrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </article>
+
+                <article id="boss-level" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">Boss Level</h2>
+                        <span class="project-badge">2023</span>
+                        <span class="project-badge">Audience award!</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Global Game Jam (KrakJam) • Game Jam subject: Roots</p>
+                        <h3>Story</h3>
+                        <p>Let's get back to the roots. Remember playing Pegasus/SNES in front of your TV? Remember that one tough boss level, even your older brother couldn't beat? Well, in our game you can BE the boss, and finally take revenge.</p>
+                        <p>"Boss Level" is a game for two to five players, where up to four players play a platformer in 2D and additional one is playing the "boss" on a VR headset - seeing the players below and trying to kill them by throwing hammers at them. Players, on the other hand, have to collect bananas to defeat the boss.</p>
+                        
+                        <h3>Tech info</h3>
+                        <ul>
+                            <li>One player plays on any SteamVR supporting VR headset - he is a cloud that throws hammers on monkeys.</li>
+                            <li>Up to 4 players play with any standard game controller, like Xbox gamepad. They are monkeys in 2D world trying to avoid hammers and try to gather enough bananas to win.</li>
+                            <li>Unity used for game.</li>
+                        </ul>
+                        
+                        <p>This project was done by four people in 48 hours. We got an audience award for this game. I was working mostly on VR part of this game.</p>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://github.com/placuszki-dev/krakjam2023" target="_blank" class="project-link">Source code</a>
+                            <a href="https://github.com/Pastew/krakjam2023/releases/download/v1.01/BossLevel-KrakJam2023.zip" target="_blank" class="project-link">Build</a>
+                            <a href="https://v3.globalgamejam.org/2023/games/boss-level-6" target="_blank" class="project-link">GGJ page</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+<iframe width="100%" height="315" data-src="https://www.youtube.com/embed/aacJmZuBWAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </article>
+
+                <article id="work-januszex" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">Work at Januszex</h2>
+                        <span class="project-badge">2020</span>
+                        <span class="project-badge">1st place!</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Global Game Jam (KrakJam) • Game Jam subject: Repair</p>
+                        <h3>Story</h3>
+                        <p>Game about having minimum wage job tightening screws under rather unpleasant leadership. You have to tighten the screws.</p>
+                        <ul>
+                            <li>Too much force will break it.</li>
+                            <li>Too little will make your boss angry.</li>
+                            <li>Too many mistakes will make you get fired!</li>
+                            <li>You get 5 groszy for every screw you tighten correctly.</li>
+                            <li>Timer speeds up, you have to hurry up!</li>
+                        </ul>
+                        
+                        <h3>Tech info</h3>
+                        <p>The game uses 2 custom controllers:</p>
+                        <ul>
+                            <li>1st controller = Arduino + Potentiometer + 3D printed case + 3D printed spanner designed and printed during the jam.</li>
+                            <li>2nd Controller is a computer's microphone. You have to shout loudly to get next bolt.</li>
+                            <li>Blender used for 3D modeling.</li>
+                            <li>Unity used for game.</li>
+                            <li>Ender-3 used for 3D printing.</li>
+                        </ul>
+                        
+                        <p>This project was done by two people in 48 hours. We got a first place prize for this game and we are super happy about it, especially there were about 150 other people, (~40 teams) there.</p>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://github.com/Pastew/krakjam2020" target="_blank" class="project-link">Source code</a>
+                            <a href="https://github.com/placuszki-dev/krakjam2020/releases/tag/2" target="_blank" class="project-link">Build</a>
+                            <a href="https://globalgamejam.org/2020/games/work-januszex-2" target="_blank" class="project-link">GGJ page</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+<iframe width="100%" height="315" data-src="https://www.youtube.com/embed/CuvS7_y8ex4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </article>
+
+                <article id="microservices" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">Microservices based web service for renting advert space inside game world</h2>
+                        <span class="project-badge">2018</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Master's thesis project</p>
+                        <p>This application is the subject of my master's thesis.</p>
+                        <p>It is an intermediary between video game owners and advertisers that are willing to pay for placing their advertisements inside the game world. The project consists of:</p>
+                        <ul>
+                            <li>client application written in Unity</li>
+                            <li>server side written using Java, Spring Boot, Spring Cloud and microservices architecture.</li>
+                        </ul>
+                        
+                        <p>I was responsible for everything in this project:</p>
+                        <ul>
+                            <li>designing the microservice architecture</li>
+                            <li>designing business model</li>
+                            <li>implementing the server and client side.</li>
+                        </ul>
+                        
+                        <p>I chose this topic because I wanted to learn Spring Boot and microservices which was new for me, so it was a valuable lesson.</p>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://github.com/Pastew/ingameads-server" target="_blank" class="project-link">Source code</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+<img src="https://github.com/Pastew/ingameads-server/raw/master/architecture.PNG?raw=true" alt="Microservices Architecture Diagram">
+                    </div>
+                </article>
+
+                <article id="adblock-simulator" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">AdBlock Simulator</h2>
+                        <span class="project-badge">2018</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Global Game Jam (KrakJam) • Game Jam subject: Transmission</p>
+                        <h3>Story</h3>
+                        <p>Your browser delivers to you great amount of data each day. However, alongside with your beloved cat pictures and memes there is always data you would rather not see - the ubiquitous demons of the web - the ADS. You probably use an ad blocker browser plugin, to help you hunt them down & forget they really exist. But do you think YOU can take it's place?</p>
+                        <p>In this little arcade/puzzle game you will be responsible for classifying correctly incoming packets of data. We will test your speed, observation skills and ability to multitask. Enjoy!</p>
+                        
+                        <p>This project was done by two people in 48 hours. I was responsible for coding (Unity, C#) while my friend was doing the design and assets.</p>
+                        <p>To play the game you need a red and green objects in your hand. It is your game controller. Webcam recognizes if you're showing the red or green objects. This is how you pass/block data packets.</p>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://github.com/Pastew/krakjam2018" target="_blank" class="project-link">Source code</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+<iframe width="100%" height="315" data-src="https://www.youtube.com/embed/AuSQ8tW7N4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </article>
+
+                <article id="red-wave" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">Red Wave</h2>
+                        <span class="project-badge">2017</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Global Game Jam (KrakJam) • Game Jam subject: Waves</p>
+                        <h3>Story</h3>
+                        <p>You're working as a radio broadcasting station operator in soviet-occupied Poland. You have lots of power and great responsibility. Will you be smart and brave enough to get rid of this fatal establishment and finally set the country free? Emit proper radio programs to influence people in polish cities, react properly for various fascinating historical (and fictional) events and splendidly avoid government agents, so you don't end up as a public enemy. Become the master of propaganda. Let the waves of freedom flow!</p>
+                        
+                        <p>This project was done by three people in 48 hours. I was fully responsible for coding (Unity, C#) while my friends was doing the design, gameplay balancing and assets.</p>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://github.com/Pastew/krakjam2017" target="_blank" class="project-link">Source code</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+<iframe width="100%" height="315" data-src="https://www.youtube.com/embed/OKJAgOTh-co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </article>
+
+
+                <article id="raspberry-pi-car" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">Raspberry Pi WiFi controlled car with 180° video streaming</h2>
+                        <span class="project-badge">2015</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Engineering project</p>
+                        <p>I created this car during my engineering studies when I attended additional classes at the SKIP scientific club. This was my first contact with:</p>
+                        <ul>
+                            <li>electronics</li>
+                            <li>3D modeling - rotating turret was designed in SketchUp and 3D printed.</li>
+                            <li>NodeJS</li>
+                        </ul>
+                        
+                        <p>I learned a lot and it was also fun for me. Later it became the subject of my engineering work.</p>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://github.com/Pastew/rpi_car" target="_blank" class="project-link">Source code</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+<iframe width="100%" height="315" data-src="https://www.youtube.com/embed/vOVKgLQbhpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </article>
+
+                <article id="android-app" class="project-card">
+                    <div class="project-header">
+                        <h2 class="project-title">Android app for learning for an engineering exam</h2>
+                        <span class="project-badge">2015</span>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3>About</h3>
+                        <p>Educational Android app</p>
+                        <p>This is my first released product that was useful for others. It helped me and my colleagues from university with learning to engineering exam in 2015. All of us passed.</p>
+                        <p>I also implemented Google Analytics to learn how to use it and it turns out the app is still used by students in 2019 whick is very nice to see.</p>
+                        
+                        <h3>Links</h3>
+                        <div class="project-links">
+                            <a href="https://github.com/Pastew/ISEngineerExam" target="_blank" class="project-link">Source code</a>
+                            <a href="https://play.google.com/store/apps/details?id=com.pastew.isexam&hl=pl" target="_blank" class="project-link">Google Play</a>
+                        </div>
+                    </div>
+                    
+                    <div class="project-media">
+                        <img src="assets/images/isexam.png" alt="ISExam Android App Screenshot" class="small">
+                    </div>
+                </article>
+            </div>
+        </main>
+    </div>
+
+<script src="script.js"></script>
+</body>
+</html>
