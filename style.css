@@ -121,6 +121,14 @@ main {
     margin-bottom: 20px;
 }
 
+.last-update {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+    font-style: italic;
+    text-align: right;
+    padding: 5px 10px;
+}
+
 .section-title {
     font-family: 'Oswald', sans-serif;
     font-size: 1.2rem;
