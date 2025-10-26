@@ -249,6 +249,12 @@ main {
     cursor: pointer;
 }
 
+.toc-meta {
+    font-weight: normal;
+    font-size: 0.85rem;
+    opacity: 0.8;
+}
+
 .toc-link:hover {
     background: var(--bg-secondary);
     color: var(--text-header);
