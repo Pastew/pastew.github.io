@@ -149,7 +149,8 @@ main {
 .skills-section,
 .experience-section,
 .education-section,
-.hobbies-section {
+.hobbies-section,
+.projects-section {
     background: var(--bg-secondary);
     padding: 25px;
     border: 1px solid var(--border-color);
